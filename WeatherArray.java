@@ -9,6 +9,6 @@ public class WeatherArray {
 
         double num3 =9.9;
         int intNum =(int)num3;
-        System.out.print(intNum);
+        System.out.print(num2);
     }
 }
